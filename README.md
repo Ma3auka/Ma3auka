@@ -2,7 +2,7 @@
 
 # Hi, I'm Artem 👋
 
-**QA Engineer · Minecraft enthusiast · Full-stack developer**
+**QA Engineer · Minecraft enthusiast**
 
 Ukraine 🇺🇦
 
