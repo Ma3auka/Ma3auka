@@ -54,18 +54,6 @@ A community-driven Minecraft platform — crafting recipes, block reference, arm
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-![Ma3auka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ma3auka&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ma3auka&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 *Building tools for the Minecraft community since 2023.*
