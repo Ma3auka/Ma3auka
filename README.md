@@ -21,8 +21,6 @@ A community-driven Minecraft platform — crafting recipes, block reference, arm
 
 ---
 
----
-
 <div align="center">
 
 *Building tools for the Minecraft community since 2023.*
