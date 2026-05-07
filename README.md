@@ -19,13 +19,6 @@ Ukraine 🇺🇦
 ### 🌐 [AlaCraft](https://alacraft.day)
 A community-driven Minecraft platform — crafting recipes, block reference, armor calculator, news, and player community. Live since 2023. Available in 7 languages.
 
-### 🧩 Minecraft Mods (NeoForge)
-| Mod | Description |
-|-----|-------------|
-| [AlaLoot](https://github.com/Ma3auka/AlaLoot) | XP-based loot drop system — drop chance scales with your level |
-| [AlaAggro](https://github.com/Ma3auka/AlaAggro) | Every mob becomes hostile — configurable, server-side |
-| [AlaHorde](https://github.com/Ma3auka/AlaHorde) | Mobs grow stronger as you kill them — RPG-style progression |
-
 ---
 
 ---
